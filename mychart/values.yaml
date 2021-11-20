@@ -1,0 +1,4 @@
+name: "mypod"
+tag: "1.21"
+image: "nginx"
+port: 80
